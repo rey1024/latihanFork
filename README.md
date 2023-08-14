@@ -1,1 +1,2 @@
 # latihanFor
+ditambah untuk latihan
